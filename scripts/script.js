@@ -85,7 +85,39 @@ let question = {
     Urgent Need for Cash<br>
     Perishable Goods<br>
     Rare Goods<br>
-    Labour Supply`
+    Labour Supply`,
+    q10: "Features of Perfect Competetion",
+    a10: `Large No. of Buyers& Sellers<br>
+    Sells Homogenous Products<br>
+    Free Entry & Exit<br>
+    All Factors of Production are Mobile<br>
+    Single Price<br>
+    Perfect Knowledge of Market<br>
+    No Govt. Intervention<br>
+    No Transport Cost`,
+    q11: 'Feaures of Monopoly',
+    a11: `Single Seller<br>
+    Price Maker<br>
+    Entry Barriers<br>
+    No Close Substitute<br>
+    Complete Control over Market Supply<br>
+    No Distinction between Firm & Industry<br>
+    Price Discrimination`,
+    q12: 'Feaatures of Oligopoly',
+    a12: `Few Firms or Sellers<br>
+    Interdependence<br>
+    Lack of uniformity<br>
+    Entry Barriers<br>
+    Advertising<br>
+    Uncertainity`,
+    q13: 'Features of Monopolistic Competetion',
+    a13: `Fairly Large No. of Sellers<br>
+    Fairly Large No. of Buyers<br>
+    Product Diffrenciation<br>
+    Free Entry & Exit<br>
+    Selling Cost<br>
+    Close Substitutes<br>
+    Concept of Group`
 };
 
 let questionNumber = 9;

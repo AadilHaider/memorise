@@ -120,7 +120,7 @@ let question = {
     Concept of Group`
 };
 
-let questionNumber = 9;
+let questionNumber = 12;
 let randomNumber = Math.floor((Math.random() * questionNumber) + 1);
 
 console.log(randomNumber);

@@ -87,7 +87,7 @@ let question = {
     Rare Goods<br>
     Labour Supply`,
     q10: "Features of Perfect Competetion",
-    a10: `Large No. of Buyers& Sellers<br>
+    a10: `Large No. of Buyers & Sellers<br>
     Sells Homogenous Products<br>
     Free Entry & Exit<br>
     All Factors of Production are Mobile<br>

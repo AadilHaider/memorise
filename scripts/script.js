@@ -70,10 +70,25 @@ let question = {
     Income of Consumer<br>
     No. of Uses<br>
     Durability<br>
-    Time Period`
+    Time Period`,
+    q8: "Determinants of Supply",
+    a8: `Price<br>
+    Infrastructural Facility<br>
+    Natural Condition<br>
+    Govt. Policy<br>
+    State of Tech<br>
+    Cost of Production<br>
+    Future Expectations<br>
+    Other Factors`,
+    q9: "Exceptions of Law of Supply",
+    a9: `Agricultural Goods<br>
+    Urgent Need for Cash<br>
+    Perishable Goods<br>
+    Rare Goods<br>
+    Labour Supply`
 };
 
-let questionNumber = 7;
+let questionNumber = 9;
 let randomNumber = Math.floor((Math.random() * questionNumber) + 1);
 
 console.log(randomNumber);

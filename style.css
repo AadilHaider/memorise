@@ -4,6 +4,13 @@
   font-size: 3rem;
   color: #a13941ff;
 }
+h2 {
+  font-family: "Comfortaa", cursive;
+  text-align: center;
+  font-size: 2rem;
+  margin-top: 0.5rem;
+  color: #dea1a6;
+}
 .container {
   width: 60%;
   margin: 3rem auto auto auto;

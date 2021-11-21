@@ -1,3 +1,5 @@
+var audio = new Audio('sound.mp3');
+audio.play();
 let question = {
     q1: `Need for social responsibility`,
     a1: `Concept of trusteeship <br>

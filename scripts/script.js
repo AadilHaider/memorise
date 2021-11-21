@@ -117,10 +117,87 @@ let question = {
     Free Entry & Exit<br>
     Selling Cost<br>
     Close Substitutes<br>
-    Concept of Group`
+    Concept of Group`,
+    q14: 'Scope of Micro-Economics',
+    a14: `Theory of Product Pricing<br>
+    <ul>
+    <li>Demand Analysis</li>
+    <li>Supply Analysis</li>
+    </ul> <br>
+    Theory of Factor Pricing<br>
+    <ul>
+    <li>Rent</li>
+    <li>Wages</li>
+    <li>Interest</li>
+    <li>Profit</li>
+    </ul><br>
+    Theory of Economic Welfare<br>
+    <ul>
+    <li>Efficiency in Production</li>
+    <li>Efficiency in Consupmtion</li>
+    <li>Overall Economic Efficiency</li>
+    </ul>`,
+    q15: 'Features fo Micro Economics',
+    a15: `<h2>PASS P BUS</h2><br>
+    Price Theory<br>
+    Analysis of Market Structure<br>
+    Slicing Meathod<br>
+    Study of Individual Units<br>
+    Partial Equilibrium<br>
+    Based on Certain Assumptions<br>
+    Use of Marginalism Principle<br>
+    Scope is Limited`,
+    q16: 'Scope of Macro-Economics',
+    a16: `Theory of Income and Employment<br>
+    <ul>
+    <li>Theory of Consumption Function</li>
+    <li>Theory of Investment Function</li>
+    <li>Theory of Business Cycles</li>
+    </ul>
+    Theory of General Price Level & Inflation<br>
+    Theory of Economic Growth & Develpoment<br>
+    Macro Theory of Distribution`,
+    q17: 'Features of Macro-Economics',
+    a17: `<h2>GeIGpIG PLS</h2><br>
+    General Equilibrium Analysis<br>
+    Interdependence<br>
+    General Price Level<br>
+    Income Theory<br>
+    Growth Models<br>
+    Policy Oriented<br>
+    Lumping Meathod<br>
+    Study of Aggregates`,
+    q18: 'Features of Utility',
+    a18: `<h2>FEUDS MRSP</h2><br>
+    Forms Basis of Demand<br>
+    Ethically Neutral<br>
+    not Usefullness<br>
+    Depends on Intensity of Want<br>
+    not Satisfaction<br>
+    not Measurable<br>
+    Relative Concept<br>
+    Subject<br>
+    not Pleasure`,
+    q19: 'Types of Utility',
+    a19: `Place<br>
+    Service<br>
+    Time<br>
+    Form<br>
+    Knowledge<br>
+    Possession Utility`,
+    q20: 'Assuption of Law of Diminishing Marginal Utility',
+    a20: `<h2>ASSUMcPdON</h2><br>
+    All other Factors are Constant<br>
+    Successive Consumption<br>
+    Size of Commodity<br>
+    Units Consumed are Homogeneous<br>
+    Measurement of Utility is Possible Cardinally<br>
+    Product/Commodity is Divisble<br>
+    Only Single Want<br>
+    Normal/Rational Behaviour`
 };
 
-let questionNumber = 12;
+let questionNumber = 20;
 let randomNumber = Math.floor((Math.random() * questionNumber) + 1);
 
 console.log(randomNumber);
